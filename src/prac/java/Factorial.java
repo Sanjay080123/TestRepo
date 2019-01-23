@@ -35,7 +35,7 @@ public class Factorial {
 	}
 	
 	
-	//###################*****TOWER OF HANOI******#####################//
+	//###################*****TOWER OF HANOI******#####################//*********************////
 	public static void toh(int n , char beg , char aux , char dest){
 		if(n==1){
 			System.out.println("Moved disk 1 from " + beg + " to " +dest);
